@@ -7,5 +7,12 @@ With the remoted power button you will never have to touch the computer again.
 ## Information
 MacBook Pro 15" Retina Mid 2015 
 ![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.51.10.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.51.18.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.51.39.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.51.59.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.52.04.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.52.07.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.53.14.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.54.34.jpg)
+![](https://github.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.56.31.jpg)
 
-![](https://raw.githubusercontent.com/antimodular/mbp-hacking/blob/master/2018-03-18%2014.51.18.jpg)
