@@ -1,4 +1,4 @@
-##laptop display mounted to back of MacBook Pro
+# laptop display mounted to back of MacBook Pro
 
 Every wanted to fit a mac book pro in to a permanent installation, but did not like to keep the lid always a crack open?
 By disabling the hinches and glueing the display to the MBP back, it now fits in to tight spaces.
